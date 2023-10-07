@@ -10,6 +10,12 @@ This project is aimed at analyzing zebra finch audio data, preprocessing the dat
 2. **Data Preprocessing:** Random samples of audio data are selected and concatenated to create artificial data. This data is then labeled with the help of available labeling systems.
 
 3. **Machine Learning Model:** A machine learning algorithm is implemented to detect syllables in zebra finch calls and classify them into relevant categories.
+
+## Prerequisites
+----------------
+## Installation
+---------------
+
 ## Usage
 * Data Preprocessing:
 
