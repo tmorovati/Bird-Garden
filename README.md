@@ -5,7 +5,7 @@
 ## Overview
 This project is aimed at analyzing zebra finch audio data, preprocessing the data, and developing a machine learning model to detect and categorize the different calls of zebra finches. The main steps involved in this project are:
 
-1. **Data Collection:** The audio data for zebra finches is collected and stored in a database.
+1. **Data Collection:**The audio data for zebra finches is collected and stored in a database.
 
 2.** Data Preprocessing:** Random samples of audio data are selected and concatenated to create artificial data. This data is then labeled with the help of available labeling systems.
 
