@@ -5,9 +5,9 @@
 ## Overview
 This project is aimed at analyzing zebra finch audio data, preprocessing the data, and developing a machine learning model to detect and categorize the different calls of zebra finches. The main steps involved in this project are:
 
-1. **Data Collection:**The audio data for zebra finches is collected and stored in a database.
+1. **Data Collection:** The audio data for zebra finches is collected and stored in a database.
 
-2.** Data Preprocessing:** Random samples of audio data are selected and concatenated to create artificial data. This data is then labeled with the help of available labeling systems.
+2. **Data Preprocessing:** Random samples of audio data are selected and concatenated to create artificial data. This data is then labeled with the help of available labeling systems.
 
 3. **Machine Learning Model:** A machine learning algorithm is implemented to detect syllables in zebra finch calls and classify them into relevant categories.
 ## Usage
@@ -35,8 +35,9 @@ Make your changes and commit them: git commit -m 'Description of changes'
 Push your changes to your fork: git push origin feature-name
 
 Create a pull request to merge your changes into the main repository.
+
 ## Contact
 Tahoura Morovati: t.morovati.99@gmail.com
-Project Link: GitHub Repository
+
 Feel free to customize this README file with additional information and details specific to your project. Good luck with your zebra finch audio analysis project!
 
